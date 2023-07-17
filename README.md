@@ -1,3 +1,3 @@
 # Datascience Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
+This GitHub repository comprises a diverse collection of Jupyter notebooks dedicated to various Data Science tasks, such as Tutorials, Exploratory Data Analysis, and Machine Learning projects. These notebooks represent a portfolio of my work, covering academic, self-learning, and personal projects. Each notebook showcases my proficiency in Data Science, reflecting my ability to tackle real-world challenges using cutting-edge techniques and algorithms. Explore this repository to witness the culmination of my passion for Data Science and my commitment to continuous growth in the field.
